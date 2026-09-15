@@ -1,0 +1,9 @@
+title: "Klinefelter Oggi"
+description: "Informazione indipendente e verificata sulla sindrome 47,XXY"
+lang: it
+url: "https://adrianocoschiera.github.io"
+baseurl: "/sindrome-di-klinefelter"
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - README.md
