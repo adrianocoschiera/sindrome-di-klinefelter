@@ -3,7 +3,10 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>{{ site.url }}{{ site.baseurl }}/</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/</loc><lastmod>2026-09-16</lastmod></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/aumentata-attivazione-via-lectina-in-klinefelter-2026.html</loc><lastmod>2026-09-16</lastmod></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/bambini-nati-da-sperma-eiaculato-uomini-con-klinefelter.html</loc><lastmod>2026-09-15</lastmod></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/spermatozoi-eiaculato-adolescenti-klinefelter-2026.html</loc><lastmod>2026-09-15</lastmod></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/cellule-leydig-sviluppo-fetale.html</loc><lastmod>2026-09-15</lastmod></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/chi-siamo.html</loc></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/avvertenze.html</loc></url>
