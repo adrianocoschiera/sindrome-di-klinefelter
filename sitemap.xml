@@ -3,7 +3,8 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>{{ site.url }}{{ site.baseurl }}/</loc><lastmod>2026-09-25</lastmod></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/</loc><lastmod>2026-09-26</lastmod></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/klinefelter-tumore-mammario-rischio-controlli.html</loc><lastmod>2026-09-26</lastmod></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/klinefelter-controlli-metabolici-annuali.html</loc><lastmod>2026-09-25</lastmod></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/adolescenti-klinefelter-benessere-emotivo-sociale.html</loc><lastmod>2026-09-24</lastmod></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/klinefelter-inattivazione-x-gene-shox.html</loc><lastmod>2026-09-23</lastmod></url>
