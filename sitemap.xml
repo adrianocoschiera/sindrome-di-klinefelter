@@ -3,7 +3,8 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>{{ site.url }}{{ site.baseurl }}/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/klinefelter-identita-genere-studio-2026.html</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/klinefelter-sonno-apnea-studio-2026.html</loc><lastmod>2026-10-02</lastmod></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/nipt-positivo-47xxy-screening-diagnosi.html</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/klinefelter-tiroide-noduli-controlli.html</loc><lastmod>2026-09-30</lastmod></url>
