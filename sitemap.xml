@@ -3,7 +3,8 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>{{ site.url }}{{ site.baseurl }}/</loc><lastmod>2026-10-09</lastmod></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/</loc><lastmod>2026-10-10</lastmod></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/klinefelter-intelligenza-artificiale-previsione-tese-2026.html</loc><lastmod>2026-10-10</lastmod></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/kand-checklist-klinefelter-difficolta-neuroevolutive-2026.html</loc><lastmod>2026-10-09</lastmod></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/klinefelter-capacita-cardiorespiratoria-giovani-studio-2026.html</loc><lastmod>2026-10-08</lastmod></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articoli/klinefelter-testosterone-rischio-cardiovascolare-studio-danese.html</loc><lastmod>2026-10-07</lastmod></url>
